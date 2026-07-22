@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,postgres,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,docker,linux,git,github,mysql" />
 
 <br><br>
 
@@ -36,18 +36,6 @@
 <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Take_Blip-4A00FF?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pnda0&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnda0&layout=compact&theme=tokyonight"/>
 
 </div>
 
