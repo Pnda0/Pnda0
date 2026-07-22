@@ -1,31 +1,52 @@
-# Welcome!
+👨‍💻 Alan Carvalho
 
+Desenvolvedor Python, Analista de Dados e Especialista em Automação de Processos.
 
-<div align="center" style='display:flex'>
-            <a href="https://github.com/Pnda0">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pnda0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-            <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnda0&layout=compact&langs_count=7&theme=dark"/>
-          </div>
+Atuo no desenvolvimento de soluções que unem automação, análise de dados, Business Intelligence e chatbots, sempre buscando transformar processos manuais em fluxos mais eficientes, escaláveis e orientados por dados.
 
-  ##
-           
- <div style="display: inline_block"><br>
-              <p> Stacks </p>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
-  
-  ##
-  
- 
-  <div> 
-              <p> Contatos </p>
-
-  <a href = "mailto:alan_carvalho2015@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-ribeiro-b862ab206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-    
-  
+🚀 Sobre Mim
+💻 Desenvolvedor Python com foco em automação e integrações
+📊 Analista de Dados e desenvolvedor Power BI
+🤖 Especialista em Chatbots e Take Blip
+🐳 Experiência com Docker e ambientes Linux
+🗄️ Conhecimento em SQL e modelagem de dados
+📈 Criação de dashboards e indicadores para tomada de decisão
+🌎 Estudando inglês e me preparando para oportunidades internacionais
+🛠️ Tecnologias e Ferramentas
+Linguagens
+Python
+SQL
+JavaScript
+Dados & BI
+Power BI
+Power Query
+DAX
+PostgreSQL
+MySQL
+Google Sheets API
+Pandas
+Automação
+Selenium
+APIs REST
+Web Scraping
+RPA
+Integrações
+Infraestrutura
+Docker
+Linux
+Git
+GitHub
+Chatbots
+Take Blip
+Fluxos Conversacionais
+📊 Áreas de Interesse
+Automação de Processos
+Engenharia de Dados
+Business Intelligence
+Inteligência Artificial
+Cloud Computing
+Desenvolvimento Backend
+📫 Contato
+LinkedIn: https://linkedin.com/in/alanribeiro8352
+GitHub: https://github.com/Pnda0
+Email: alanribeiro8352@icloud.com
